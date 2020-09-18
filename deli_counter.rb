@@ -9,4 +9,3 @@ def line(other_deli)
   puts other_deli
 end
 end
-  

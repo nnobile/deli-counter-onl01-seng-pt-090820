@@ -8,4 +8,3 @@ def line(other_deli)
   other_deli = ["Logan", "Avi", "Spencer"]
   puts other_deli
 end
-end
